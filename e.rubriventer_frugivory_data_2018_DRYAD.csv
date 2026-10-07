@@ -1,0 +1,432 @@
+date,group_,focal,time,gps,event,tree_species,scientific_name,tag,food_tag,plant_part,fruit_seed,scientific_name_fruit,end_event,xcord,ycord
+5/11/2018 0:00,GOT,AM,12:25:00,27,F,Maka,weinmannia_bojeriana,1801,1801,Fruit,Voara,chassalia_ternifolia,12:29:00,19.95917,30.34196
+5/10/2018 0:00,GOT,AM,12:00:00,28,F,Maka,weinmannia_bojeriana,1801,1801a,Fruit,Vahirano,vitis_sp,12:09:00,19.95917,30.34196
+5/10/2018 0:00,GOT,AM,10:03:00,27,S,Maka,weinmannia_bojeriana,1801,NA,Fruit,Vahirano,vitis_sp,NA,19.95917,30.34196
+6/2/2018 0:00,GOT,AM,11:31:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,11:50:00,16.50977,33.5563
+6/1/2018 0:00,GOT,JUVF,7:11:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,7:22:00,16.50977,33.5563
+5/23/2018 0:00,GOT,SAF,14:19:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,14:54:00,16.50977,33.5563
+5/23/2018 0:00,GOT,SAF,11:28:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,11:40:00,16.50977,33.5563
+5/22/2018 0:00,GOT,AF,14:36:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,14:52:00,16.50977,33.5563
+5/20/2018 0:00,GOT,JUVF,11:35:00,NA,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,11:54:00,16.50977,33.5563
+5/12/2018 0:00,GOT,JUVF,14:20:00,40,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,14:50:00,16.50977,33.5563
+5/11/2018 0:00,GOT,AM,11:52:00,40,F,Voara,ficus_tiliifolia,1807,1807,Fruit,Voara,ficus_tiliifolia,12:22:00,16.50977,33.5563
+5/10/2018 0:00,GOT,AM,15:59:00,36,F,Dikana,allophylus_cobbe,1809,1809,Fruit,Dikana,allophylus_cobbe,16:00:00,26.66593,27.70534
+5/11/2018 0:00,GOT,AM,14:08:00,42,F,Tavolo,cryptocarya_crassifolia_1,1811,1811,Fruit,Vahirano,vitis_sp,14:10:00,21.79759,26.27803
+5/11/2018 0:00,GOT,AM,14:28:00,43,F,Kalafana,oncostemum_botryoides,1812,1812,Fruit,Kalafana,oncostemum_botryoides,14:30:00,24.7089,22.48042
+7/5/2018 0:00,GOT,SAF,10:00:00,NA,F,Varongy mavina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,10:18:00,27.78257,21.15103
+6/17/2018 0:00,GOT,AM,7:47:00,NA,F,Varongy mavina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,8:03:00,27.78257,21.15103
+6/1/2018 0:00,GOT,JUVF,11:21:00,NA,F,Varongy ravina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,11:39:00,27.78257,21.15103
+6/1/2018 0:00,GOT,JUVF,8:31:00,1813,F,Varongy ravina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,8:58:00,27.78257,21.15103
+5/25/2018 0:00,GOT,AM,8:03:00,NA,F,Varongy mavina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,8:23:00,27.78257,21.15103
+5/11/2018 0:00,GOT,AM,14:32:00,44,F,Varongy ravina montana,ocotea_auriculiformis,1813,1813,Fruit,Nonoka,ficus_reflexa,14:58:00,27.78257,21.15103
+5/11/2018 0:00,GOT,AM,15:39:00,48,F,Vahirano,vitis_sp,1815,1815,Fruit,Vahirano,vitis_sp,15:52:00,22.14801,17.69225
+5/11/2018 0:00,GOT,AM,16:00:00,49,F,Apana,ficus_pachyclada,1816,1816,Fruit,Apana,ficus_pachyclada,16:02:00,14.48008,13.19997
+5/12/2018 0:00,GOT,JUVF,11:32:00,40,F,Apana,ficus_pachyclada,1816,1816a,Fruit,Voara,chassalia_ternifolia,11:42:00,14.48008,13.19997
+7/9/2018 0:00,GOT,AM,9:12:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,9:18:00,23.83467,27.60161
+7/4/2018 0:00,GOT,AF,8:23:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,8:40:00,23.83467,27.60161
+7/2/2018 0:00,GOT,JUVF,8:13:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,8:30:00,23.83467,27.60161
+6/24/2018 0:00,GOT,JUVF,9:54:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,10:11:00,23.83467,27.60161
+6/23/2018 0:00,GOT,SAF,8:17:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,8:21:00,23.83467,27.60161
+6/23/2018 0:00,GOT,SAF,7:39:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,8:07:00,23.83467,27.60161
+6/21/2018 0:00,GOT,AM,8:19:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,8:22:00,23.83467,27.60161
+6/15/2018 0:00,GOT,JUVF,12:25:00,182,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,12:47:00,23.83467,27.60161
+5/20/2018 0:00,GOT,JUVF,11:19:00,NA,F,Vanana,sloanea_rhodantha,1818,1818,Fruit,Nonoka,ficus_reflexa,11:22:00,23.83467,27.60161
+7/15/2018 0:00,Sakafo,AM,9:54:00,319,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,10:04:00,49.83867,52.03141
+7/14/2018 0:00,Sakafo,AF,12:34:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,12:58:00,49.83867,52.03141
+7/9/2018 0:00,Sakafo,AF,9:57:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,10:27:00,49.83867,52.03141
+7/2/2018 0:00,Sakafo,SAM,16:02:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,16:45:00,49.83867,52.03141
+6/23/2018 0:00,Sakafo,AM,9:11:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,9:43:00,49.83867,52.03141
+6/17/2018 0:00,Sakafo,AM,8:20:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:57:00,49.83867,52.03141
+6/15/2018 0:00,Sakafo,AF,13:04:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,13:20:00,49.83867,52.03141
+6/11/2018 0:00,Sakafo,JUVF,14:04:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,14:24:00,49.83867,52.03141
+6/11/2018 0:00,Sakafo,JUVF,9:46:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,10:37:00,49.83867,52.03141
+6/10/2018 0:00,Sakafo,Ronono,8:23:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:44:00,49.83867,52.03141
+6/7/2018 0:00,Sakafo,Akondro,8:03:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:29:00,49.83867,52.03141
+6/6/2018 0:00,Sakafo,AM,11:25:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,11:50:00,49.83867,52.03141
+6/6/2018 0:00,Sakafo,AM,8:48:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,9:20:00,49.83867,52.03141
+6/2/2018 0:00,Sakafo,AM,14:12:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,14:40:00,49.83867,52.03141
+6/5/2018 0:00,Sakafo,AF,8:00:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:21:00,49.83867,52.03141
+6/1/2018 0:00,Sakafo,Ronono,14:37:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,15:00:00,49.83867,52.03141
+6/1/2018 0:00,Sakafo,Ronono,10:46:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,11:14:00,49.83867,52.03141
+5/31/2018 0:00,Sakafo,AF,7:04:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,7:36:00,49.83867,52.03141
+5/30/2018 0:00,Sakafo,JUVF,13:11:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,13:32:00,49.83867,52.03141
+5/30/2018 0:00,Sakafo,JUVF,9:43:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Vahinonoka,ficus_reflexa,10:05:00,49.83867,52.03141
+5/30/2018 0:00,Sakafo,JUVF,7:34:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Vahinonoka,ficus_reflexa,8:04:00,49.83867,52.03141
+5/25/2018 0:00,Sakafo,JUVF,10:44:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,11:10:00,49.83867,52.03141
+5/24/2018 0:00,Sakafo,SAM,12:05:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,12:25:00,49.83867,52.03141
+5/24/2018 0:00,Sakafo,SAM,8:13:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:54:00,49.83867,52.03141
+5/20/2018 0:00,Sakafo Mandry,SAM,10:32:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,10:44:00,49.83867,52.03141
+5/19/2018 0:00,Sakafo Mandry,AF,7:35:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,8:23:00,49.83867,52.03141
+5/16/2018 0:00,Sakafo,SAM,8:40:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,NA,49.83867,52.03141
+5/15/2018 0:00,Sakafo,AF,14:08:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,14:32:00,49.83867,52.03141
+5/15/2018 0:00,Sakafo,AF,9:05:00,NA,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,9:45:00,49.83867,52.03141
+5/14/2018 0:00,Sakafo,AM,11:00:00,53,F,Rahiaka,chrysophyllum_boivinianum,1819,1819,Fruit,Nonoka,ficus_reflexa,NA,49.83867,52.03141
+5/23/2018 0:00,Sakafo Mandry,AF,11:32:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,11:36:00,44.8999,41.16363
+5/23/2018 0:00,Sakafo Mandry,AF,8:35:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,8:40:00,44.8999,41.16363
+5/22/2018 0:00,Sakafo Mandry,AM,8:00:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,8:17:00,44.8999,41.16363
+5/20/2018 0:00,Sakafo Mandry,SAM,15:00:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,15:07:00,44.8999,41.16363
+5/18/2018 0:00,Sakafo,AM,11:40:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,11:50:00,44.8999,41.16363
+5/14/2018 0:00,Sakafo,AM,12:05:00,55,F,Varongy fotsy,ocotea_racemosa_1,1820,1820,Fruit,Nonoka,ficus_reflexa,12:42:00,44.8999,41.16363
+5/31/2018 0:00,Sakafo,AF,14:32:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,14:57:00,44.60114,38.90747
+5/23/2018 0:00,Sakafo Mandry,AF,11:39:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,11:45:00,44.60114,38.90747
+5/23/2018 0:00,Sakafo Mandry,AF,8:00:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,8:22:00,44.60114,38.90747
+5/20/2018 0:00,Sakafo Mandry,SAM,15:11:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,15:30:00,44.60114,38.90747
+5/14/2018 0:00,Sakafo,AM,15:58:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,15:59:00,44.60114,38.90747
+5/18/2018 0:00,Sakafo,AM,11:57:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,12:19:00,44.60114,38.90747
+5/14/2018 0:00,Sakafo,AM,12:43:00,58,F,Nonoka,ficus_reflexa,1821,1821,Fruit,Nonoka,ficus_reflexa,13:00:00,44.60114,38.90747
+5/23/2018 0:00,Sakafo Mandry,AF,11:57:00,61,F,Apana,ficus_pachyclada,1822,1822,Fruit,Vahirano,vitis_sp,12:07:00,42.58457,34.53238
+5/18/2018 0:00,Sakafo,AM,13:30:00,61,F,Apana,ficus_pachyclada,1822,1822,Fruit,Vahirano,vitis_sp,13:32:00,42.58457,34.53238
+5/18/2018 0:00,Sakafo,AM,12:20:00,61,F,Apana,ficus_pachyclada,1822,1822,Fruit,Vahirano,vitis_sp,12:30:00,42.58457,34.53238
+5/14/2018 0:00,Sakafo,AM,14:30:00,61,F,Apana,ficus_pachyclada,1822,1822,Fruit,Vahirano,vitis_sp,NA,42.58457,34.53238
+5/14/2018 0:00,Sakafo,AM,13:13:00,61,F,Apana,ficus_pachyclada,1822,1822,Fruit,Vahirano,vitis_sp,13:17:00,42.58457,34.53238
+5/14/2018 0:00,Sakafo,AM,14:43:00,66,F,Dikana,allophylus_cobbe,1823,1823,Fruit,Dikana,allophylus_cobbe,14:49:00,44.06763,33.17391
+5/14/2018 0:00,Sakafo,AM,15:18:00,70,F,Vanana,sloanea_rhodantha,1824,1824,Fruit,Vahirano,vitis_sp,15:20:00,44.98805,34.02222
+5/14/2018 0:00,Sakafo,AM,15:40:00,71,F,Rotra,syzygium_parkeri,1825,1825,Fruit,Vahirano,vitis_sp,15:50:00,45.6834,35.96309
+5/22/2018 0:00,Sakafo Mandry,AM,11:54:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,12:09:00,44.65981,48.21728
+5/22/2018 0:00,Sakafo Mandry,AM,9:52:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,10:42:00,44.65981,48.21728
+5/15/2018 0:00,Sakafo,AF,12:00:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,13:46:00,44.65981,48.21728
+6/3/2018 0:00,Sakafo,Akondro,9:20:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,9:55:00,44.65981,48.21728
+5/19/2018 0:00,Sakafo Mandry,AF,7:10:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,7:29:00,44.65981,48.21728
+6/6/2018 0:00,Sakafo,AM,12:14:00,NA,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,12:29:00,44.65981,48.21728
+6/1/2018 0:00,Sakafo,Ronono,15:09:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,15:35:00,44.65981,48.21728
+5/25/2018 0:00,Sakafo,JUVF,7:58:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,9:35:00,44.65981,48.21728
+5/24/2018 0:00,Sakafo,SAM,14:10:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,15:30:00,44.65981,48.21728
+6/4/2018 0:00,GOT,SAF,9:02:00,NA,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,9:16:00,44.65981,48.21728
+6/7/2018 0:00,Sakafo,Akondro,8:37:00,NA,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,9:20:00,44.65981,48.21728
+5/23/2018 0:00,Sakafo Mandry,AF,9:00:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,11:14:00,44.65981,48.21728
+5/22/2018 0:00,Sakafo Mandry,AM,8:25:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,9:24:00,44.65981,48.21728
+5/18/2018 0:00,Sakafo,AM,10:45:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,11:25:00,44.65981,48.21728
+5/18/2018 0:00,Sakafo,AM,10:05:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,10:19:00,44.65981,48.21728
+5/20/2018 0:00,Sakafo Mandry,SAM,12:30:00,77,F,Harongana,harungana_madagascariensis,1827,1827,Fruit,Harongana,harungana_madagascariensis,NA,44.65981,48.21728
+5/15/2018 0:00,Sakafo,AF,13:55:00,78,F,Tavolo,cryptocarya_crassifolia_1,1828,1828,Fruit,Takatsina,ukn_2,13:56:00,42.75686,47.23151
+6/10/2018 0:00,Sakafo,Ronono,8:54:00,NA,F,Dikana,allophylus_cobbe,1832,1832,Fruit,Dikana,allophylus_cobbe,8:59:00,48.29339,58.63149
+5/15/2018 0:00,Sakafo,AF,15:49:00,83,F,Dikana,allophylus_cobbe,1832,1832,Fruit,Dikana,allophylus_cobbe,15:58:00,48.29339,58.63149
+5/16/2018 0:00,Sakafo,SAM,11:04:00,86,F,Voananala,chassalia_ternifolia,1835,1835,Fruit,Voanananala,chassalia_ternifolia,11:10:00,41.21683,50.36115
+6/14/2018 0:00,GOT,SAF,10:14:00,NA,F,Rotra,syzygium_parkeri,1836,1836,Fruit,Nonoka,ficus_reflexa,10:18:00,29.90745,49.67581
+5/19/2018 0:00,GOT,SAF,14:38:00,NA,F,Rotra,syzygium_parkeri,1836,1836,Fruit,Nonoka,ficus_reflexa,14:44:00,29.90745,49.67581
+5/19/2018 0:00,GOT,SAF,13:40:00,NA,F,Rotra,syzygium_parkeri,1836,1836,Fruit,Nonoka,ficus_reflexa,13:55:00,29.90745,49.67581
+5/16/2018 0:00,Sakafo,SAM,11:15:00,87,F,Rotra,syzygium_parkeri,1836,1836,Fruit,Nonoka,ficus_reflexa,11:25:00,29.90745,49.67581
+5/16/2018 0:00,Sakafo,SAM,11:50:00,88,F,Kalafambakaka,oncostemum_nervosum,1837,1837,Fruit,Kalafambakaka,oncostemum_nervosum,11:58:00,27.64896,56.87516
+6/10/2018 0:00,GOT,SAF,10:29:00,NA,F,Natojavo,mammea_bongo,1838,1838,Fruit,Nonoka,ficus_reflexa,10:47:00,27.03073,58.54359
+5/17/2018 0:00,GOT,JUVF,11:22:00,NA,F,Natojabo,mammea_bongo,1838,1838,Fruit,Nonoka,ficus_reflexa,11:23:00,27.03073,58.54359
+5/17/2018 0:00,GOT,JUVF,9:53:00,NA,F,Natojabo,mammea_bongo,1838,1838,Fruit,Nonoka,ficus_reflexa,10:10:00,27.03073,58.54359
+5/16/2018 0:00,Sakafo,SAM,12:00:00,90,F,Natojabo,mammea_bongo,1838,1838,Fruit,Nonoka,ficus_reflexa,12:03:00,27.03073,58.54359
+5/17/2018 0:00,GOT,JUVF,10:11:00,NA,F,Harongana,harungana_madagascariensis,1839,1839,Fruit,Harongana,harungana_madagascariensis,10:34:00,26.85156,59.41605
+5/16/2018 0:00,Sakafo,SAM,12:05:00,91,F,Harongana,harungana_madagascariensis,1839,1839,Fruit,Harongana,harungana_madagascariensis,12:40:00,26.85156,59.41605
+5/16/2018 0:00,Sakafo,SAM,12:42:00,92,F,Harongana,harungana_madagascariensis,1840,1840,Fruit,Harongana,harungana_madagascariensis,13:09:00,26.09912,59.24536
+5/16/2018 0:00,Sakafo,SAM,13:28:00,93,F,Apana,ficus_pachyclada,1841,1841,Fruit,Apana,ficus_pachyclada,13:30:00,26.66018,61.68849
+5/16/2018 0:00,Sakafo,SAM,13:40:00,94,F,Dikana,allophylus_cobbe,1842,1842,Fruit,Vahirano,vitis_sp,13:42:00,33.08018,67.11709
+5/16/2018 0:00,Sakafo,SAM,13:45:00,95,F,Voangy,omphalea_sp,1843,1843,Fruit,Voangy,omphalea_sp,13:47:00,30.8597,67.05496
+5/16/2018 0:00,Sakafo,SAM,13:50:00,96,F,Dikana,allophylus_cobbe,1844,1844,Fruit,Vahirano,vitis_sp,13:56:00,32.51581,68.344
+6/18/2018 0:00,Sakafo,Akondro,10:47:00,NA,F,Maka,weinmannia_bojeriana,1845,1845,Fruit,Vahirano,vitis_sp,10:58:00,32.49456,69.76429
+6/10/2018 0:00,Sakafo,Ronono,14:47:00,NA,F,Maka,weinmannia_bojeriana,1845,1845,Fruit,Vahirano,vitis_sp,15:18:00,32.49456,69.76429
+5/16/2018 0:00,Sakafo,SAM,13:58:00,98,F,Maka,weinmannia_bojeriana,1845,1845,Fruit,Vahirano,vitis_sp,14:15:00,32.49456,69.76429
+6/18/2018 0:00,Sakafo,Akondro,13:44:00,NA,F,Apana,ficus_pachyclada,1846,1846,Fruit,Vahirano,vitis_sp,13:58:00,NA,NA
+6/18/2018 0:00,Sakafo,Akondro,10:20:00,NA,F,Apana,ficus_pachyclada,1846,1846,Fruit,Vahirano,vitis_sp,10:44:00,NA,NA
+6/10/2018 0:00,Sakafo,Ronono,15:20:00,NA,F,Apana,ficus_pachyclada,1846,1846,Fruit,Vahirano,vitis_sp,15:30:00,NA,NA
+5/17/2018 0:00,GOT,JUVF,8:27:00,101,F,Harongana,harungana_madagascariensis,1847,1847,Fruit,Harongana,harungana_madagascariensis,NA,26.66875,49.04744
+7/15/2018 0:00,Sakafo,AM,9:47:00,NA,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,9:49:00,47.89416,50.0864
+7/9/2018 0:00,Sakafo,AF,9:52:00,NA,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,9:55:00,47.89416,50.0864
+6/23/2018 0:00,Sakafo,AM,12:30:00,NA,F,Varongy ravinamontana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,12:38:00,47.89416,50.0864
+6/11/2018 0:00,Sakafo,JUVF,13:57:00,NA,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,13:59:00,47.89416,50.0864
+6/1/2018 0:00,Sakafo,Ronono,15:05:00,102,F,Varongy ravinam montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,15:07:00,47.89416,50.0864
+5/24/2018 0:00,Sakafo,SAM,8:50:00,102,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,9:00:00,47.89416,50.0864
+5/20/2018 0:00,Sakafo Mandry,SAM,12:25:00,102,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,12:28:00,47.89416,50.0864
+5/18/2018 0:00,Sakafo,AM,10:36:00,102,F,Varongy ravina montana,ocotea_auriculiformis,1848,1848,Fruit,Nonoka,ficus_reflexa,10:39:00,47.89416,50.0864
+5/18/2018 0:00,Sakafo,AM,11:30:00,103,F,Kalafambakaka,oncostemum_nervosum,1849,1849,Fruit,Kalafambakaka,oncostemum_nervosum,11:38:00,46.28638,42.47622
+5/23/2018 0:00,Sakafo Mandry,AF,14:34:00,104,F,Kalafana Lg,oncostemum_botryoides,1850,1850,Fruit,Kalafana (lg),oncostemum_botryoides,14:40:00,42.37436,32.90553
+5/18/2018 0:00,Sakafo,AM,13:36:00,104,F,Kalafana Lg,oncostemum_botryoides,1850,1850,Fruit,Kalafana,oncostemum_botryoides,13:38:00,42.37436,32.90553
+6/20/2018 0:00,GOT,JUVF,10:55:00,NA,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,10:56:00,37.45865,34.07824
+6/6/2018 0:00,GOT,AM,15:29:00,NA,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,15:30:00,37.45865,34.07824
+6/5/2018 0:00,GOT,JUVF,9:36:00,NA,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,9:39:00,37.45865,34.07824
+5/31/2018 0:00,GOT,SAF,14:55:00,NA,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,15:05:00,37.45865,34.07824
+5/23/2018 0:00,Sakafo Mandry,AF,14:50:00,106,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,NA,37.45865,34.07824
+5/19/2018 0:00,GOT,SAF,10:46:00,NA,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,10:53:00,37.45865,34.07824
+5/18/2018 0:00,Sakafo,AM,14:40:00,106,F,Voara,ficus_tiliifolia,1852,1852,Fruit,Voara,ficus_tiliifolia,14:52:00,37.45865,34.07824
+5/18/2018 0:00,Sakafo,AM,14:55:00,107,F,Kalafana,oncostemum_botryoides,1853,1853,Fruit,Kalafana,oncostemum_botryoides,14:57:00,38.31972,34.15695
+5/18/2018 0:00,Sakafo,AM,15:00:00,108,F,Kalafana,oncostemum_botryoides,1854,1854,Fruit,Vahirano,vitis_sp,15:10:00,38.76966,34.14109
+5/19/2018 0:00,Sakafo Mandry,AF,9:48:00,101,F,Harongana,harungana_madagascariensis,1856,1856,Fruit,Harongana,harungana_madagascariensis,10:06:00,54.58325,48.43078
+5/22/2018 0:00,Sakafo Mandry,AM,12:54:00,110,F,Harongana,harungana_madagascariensis,1856,1856,Fruit,Harongana,harungana_madagascariensis,15:19:00,54.58325,48.43078
+5/31/2018 0:00,Sakafo,AF,8:40:00,110,F,Harongana,harungana_madagascariensis,1856,1856,Fruit,Harongana,harungana_madagascariensis,9:18:00,54.58325,48.43078
+5/31/2018 0:00,Sakafo,AF,9:26:00,111,F,Kalafambakaka,oncostemum_nervosum,1857,1857,Fruit,Kalafambakaka,oncostemum_nervosum,9:28:00,54.47801,43.34141
+5/19/2018 0:00,Sakafo Mandry,AF,10:20:00,111,F,Kalafambakaka,oncostemum_nervosum,1857,1857,Fruit,Kalafambakaka,oncostemum_nervosum,10:26:00,54.47801,43.34141
+5/19/2018 0:00,Sakafo Mandry,AF,10:29:00,113,F,Voanananala,chassalia_ternifolia,1858,1858,Fruit,Voanananala,chassalia_ternifolia,10:34:00,53.77309,41.38046
+5/31/2018 0:00,Sakafo,AF,14:14:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,14:26:00,50.46704,28.39115
+5/31/2018 0:00,Sakafo,AF,12:18:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,12:25:00,50.46704,28.39115
+5/22/2018 0:00,Sakafo Mandry,AM,15:25:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,15:34:00,50.46704,28.39115
+5/19/2018 0:00,Sakafo Mandry,AF,15:18:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,15:26:00,50.46704,28.39115
+5/19/2018 0:00,Sakafo Mandry,AF,13:13:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,13:20:00,50.46704,28.39115
+5/19/2018 0:00,Sakafo Mandry,AF,10:48:00,114,F,Rotra fotsy,syzygium_emirnense,1859,1859,Fruit,Nonoka,ficus_reflexa,11:05:00,50.46704,28.39115
+5/19/2018 0:00,Sakafo Mandry,AF,12:40:00,115,F,Tavolomaintso,cryptocarya_sp_4,1860,1860,Fruit,Nonoka,ficus_reflexa,13:10:00,50.64253,24.93872
+5/22/2018 0:00,Sakafo Mandry,AM,12:13:00,122,F,Sana,elaeocarpus_subserratus,1864,1864,Fruit,Vahimbarongy,raphidocystis_sp,12:26:00,44.59486,45.49798
+5/20/2018 0:00,Sakafo Mandry,SAM,14:50:00,122,F,Sana,elaeocarpus_subserratus,1864,1864,Fruit,Vahimborahy,raphidocystis_sp,14:54:00,44.59486,45.49798
+5/22/2018 0:00,Sakafo Mandry,AM,7:50:00,124,F,Harongana,harungana_madagascariensis,1866,1866,Fruit,Harongana,harungana_madagascariensis,7:58:00,46.53594,40.09244
+5/22/2018 0:00,Sakafo Mandry,AM,15:12:00,129,F,Kalafambakaka,oncostemum_nervosum,1869,1869,Fruit,Kalafambakaka,oncostemum_nervosum,15:14:00,52.47707,39.33666
+6/12/2018 0:00,GOT,AM,15:17:00,NA,F,Fantsy,carissa_edulis,1871,1871,Fruit,Nonoka,ficus_reflexa,15:21:00,40.77347,41.51649
+5/23/2018 0:00,Sakafo Mandry,AF,8:40:00,131,F,Fantsy,carissa_edulis,1871,1871,Fruit,Nonoka,ficus_reflexa,8:46:00,40.77347,41.51649
+5/23/2018 0:00,Sakafo Mandry,AF,8:52:00,132,F,Harongana,harungana_madagascariensis,1872,1872,Fruit,Harongana,harungana_madagascariensis,8:58:00,42.72003,45.13211
+5/23/2018 0:00,Sakafo Mandry,AF,11:29:00,133,F,Kalafambakaka,oncostemum_nervosum,1873,1873,Fruit,Kalafambakaka,oncostemum_nervosum,NA,45.00083,41.25205
+5/23/2018 0:00,Sakafo Mandry,AF,11:48:00,134,F,Rotra mena,syzygium_parkeri,1874,1874,Fruit,Vahirano,vitis_sp,11:53:00,42.3198,35.72616
+5/23/2018 0:00,Sakafo Mandry,AF,14:40:00,135,F,Famakilela,ficus_politoria,1875,1875,Fruit,Famakilela,ficus_politoria,14:48:00,39.57674,33.1408
+5/24/2018 0:00,Sakafo,SAM,7:43:00,137,F,Harongana,harungana_madagascariensis,1877,1877,Fruit,Harongana,harungana_madagascariensis,7:46:00,42.82627,58.10201
+6/6/2018 0:00,Sakafo,AM,14:56:00,NA,F,Harongana,harungana_madagascariensis,1877,1877,Fruit,Harongana,harungana_madagascariensis,15:30:00,42.82627,58.10201
+6/2/2018 0:00,Sakafo,AM,13:57:00,137,F,Harongana,harungana_madagascariensis,1877,1877,Fruit,Harongana,harungana_madagascariensis,14:07:00,42.82627,58.10201
+6/1/2018 0:00,Sakafo,Ronono,8:18:00,137,F,Harongana,harungana_madagascariensis,1877,1877,Fruit,Harongana,harungana_madagascariensis,10:01:00,42.82627,58.10201
+5/24/2018 0:00,Sakafo,SAM,7:48:00,138,F,Harongana,harungana_madagascariensis,1878,1878,Fruit,Harongana,harungana_madagascariensis,7:50:00,44.47784,56.68019
+5/24/2018 0:00,Sakafo,SAM,12:27:00,139,F,Kalafambakaka,oncostemum_nervosum,1879,1879,Fruit,Kalafambakaka,oncostemum_nervosum,12:30:00,49.10736,51.94105
+5/30/2018 0:00,Sakafo,JUVF,13:01:00,139,F,Kalafambakaka,oncostemum_nervosum,1879,1879,Fruit,Kalafambakaka,oncostemum_nervosum,13:09:00,49.10736,51.94105
+5/30/2018 0:00,Sakafo,JUVF,10:08:00,139,F,Kalafambakaka,oncostemum_nervosum,1879,1879,Fruit,Kalafambakaka,oncostemum_nervosum,10:21:00,49.10736,51.94105
+5/25/2018 0:00,Sakafo,JUVF,13:35:00,144,F,Kalafana lg,oncostemum_botryoides,1884,1884,Fruit,Kalafana lg,oncostemum_botryoides,13:40:00,35.17318,61.07005
+5/25/2018 0:00,Sakafo,JUVF,13:42:00,145,F,Tavolomalady,cryptocarya_crassifolia_2,1885,1885,Fruit,Vahirana,vitis_sp,13:52:00,33.51489,59.61082
+5/25/2018 0:00,Sakafo,JUVF,13:53:00,146,F,Famakilela,ficus_politoria,1886,1886,Fruit,Famakilela,ficus_politoria,14:05:00,33.81177,59.42681
+5/30/2018 0:00,Sakafo,JUVF,15:03:00,163,F,Kalafambakaka,oncostemum_nervosum,1890,1890,Fruit,Kalafambakaka,oncostemum_nervosum,15:22:00,41.56325,56.34771
+5/31/2018 0:00,Sakafo,AF,10:45:00,176,F,Harongana,harungana_madagascariensis,1892,1892,Fruit,Harongana,harungana_madagascariensis,11:04:00,64.61852,40.13207
+5/31/2018 0:00,Sakafo,AF,11:55:00,184,F,Harongana,harungana_madagascariensis,1897,1897,Fruit,Vahirano,vitis_sp,12:01:00,59.23444,27.34953
+5/31/2018 0:00,Sakafo,AF,12:04:00,186,F,Varongy,ocotea_nervosa,1898,1898,Fruit,Vahirano,vitis_sp,12:08:00,56.9052,26.64914
+5/31/2018 0:00,Sakafo,AF,12:12:00,188,F,Kalafana,oncostemum_botryoides,1899,1899,Fruit,Kalafana log,oncostemum_botryoides,12:15:00,55.46519,26.65754
+6/1/2018 0:00,Sakafo,Ronono,7:50:00,211,F,Harongana,harungana_madagascariensis,18102,18102,Fruit,Harongana,harungana_madagascariensis,8:17:00,40.49831,57.50141
+6/2/2018 0:00,Sakafo,AM,11:25:00,211,F,Harongana,harungana_madagascariensis,18102,18102,Fruit,Harongana,harungana_madagascariensis,12:32:00,40.49831,57.50141
+6/14/2018 0:00,GOT,SAF,9:59:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,10:08:00,32.31399,49.40534
+6/7/2018 0:00,Sakafo,Akondro,15:02:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,15:32:00,32.31399,49.40534
+6/2/2018 0:00,Sakafo,AM,7:44:00,217,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,7:55:00,32.31399,49.40534
+6/19/2018 0:00,Sakafo,Ronono,8:20:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,9:43:00,32.31399,49.40534
+6/11/2018 0:00,Sakafo,JUVF,8:24:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,9:35:00,32.31399,49.40534
+6/7/2018 0:00,Sakafo,Akondro,12:48:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,13:39:00,32.31399,49.40534
+6/10/2018 0:00,GOT,SAF,11:55:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,12:29:00,32.31399,49.40534
+6/4/2018 0:00,Sakafo,JUVF,14:27:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,15:30:00,32.31399,49.40534
+6/4/2018 0:00,Sakafo,JUVF,10:16:00,NA,F,Harongana,harungana_madagascariensis,18105,18105,Fruit,Harongana,harungana_madagascariensis,13:26:00,32.31399,49.40534
+6/3/2018 0:00,Sakafo,Akondro,15:07:00,226,F,Harongana,harungana_madagascariensis,18109,18109,Fruit,Harongana,harungana_madagascariensis,15:30:00,27.44286,68.09871
+6/3/2018 0:00,Sakafo,Akondro,12:50:00,226,F,Harongana,harungana_madagascariensis,18109,18109,Fruit,Harongana,harungana_madagascariensis,14:50:00,27.44286,68.09871
+6/6/2018 0:00,Sakafo,AM,14:40:00,238,F,Maroiranina,drypetes_sp,18118,18118,Fruit,Nonoka,ficus_reflexa,NA,41.26972,48.99076
+6/7/2018 0:00,Sakafo,Akondro,12:14:00,241,F,Kalafana lg,oncostemum_botryoides,18120,18120,Fruit,Kalafana,oncostemum_botryoides,12:18:00,34.06118,44.50261
+7/14/2018 0:00,Sakafo,AF,12:59:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahivoraka,mendonsia_couvanii,13:13:00,49.87731,52.69147
+7/9/2018 0:00,Sakafo,AF,13:00:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahivoraka,mendonsia_couvanii,13:11:00,49.87731,52.69147
+7/9/2018 0:00,Sakafo,AF,10:37:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahivoraka,mendonsia_couvanii,10:50:00,49.87731,52.69147
+6/29/2018 0:00,Sakafo,SAM,12:35:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahivoraka,mendonsia_couvanii,12:50:00,49.87731,52.69147
+6/15/2018 0:00,Sakafo,AF,12:58:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahy voraka,mendonsia_couvanii,13:02:00,49.87731,52.69147
+6/15/2018 0:00,Sakafo,AF,10:20:00,NA,F,Kimba,symphonia_gymnoclada,18122,18122,Fruit,Vahy voraka,mendonsia_couvanii,11:20:00,49.87731,52.69147
+7/11/2018 0:00,Sakafo,SAM,10:12:00,NA,F,Harongana,harungana_madagascariensis,18123,18123,Fruit,Harongana,harungana_madagascariensis,10:52:00,51.13473,66.53603
+7/2/2018 0:00,Sakafo,SAM,12:40:00,NA,F,Harongana,harungana_madagascariensis,18123,18123,Fruit,Harongana,harungana_madagascariensis,13:06:00,51.13473,66.53603
+6/22/2018 0:00,Sakafo,AF,9:18:00,NA,F,Harongana,harungana_madagascariensis,18123,18123,Fruit,Harongana,harungana_madagascariensis,10:41:00,51.13473,66.53603
+6/10/2018 0:00,Sakafo,Ronono,9:08:00,245,F,Harongana,harungana_madagascariensis,18123,18123,Fruit,Harongana,harungana_madagascariensis,9:18:00,51.13473,66.53603
+6/10/2018 0:00,Sakafo,Ronono,9:24:00,246,F,Harongana,harungana_madagascariensis,18124,18124,Fruit,Harongana,harungana_madagascariensis,9:40:00,49.60226,70.26572
+6/10/2018 0:00,Sakafo,Ronono,10:06:00,247,F,Harongana,harungana_madagascariensis,18125,18125,Fruit,Harongana,harungana_madagascariensis,10:28:00,41.05637,71.45542
+6/7/2018 0:00,GOT,AF,12:23:00,NA,F,Harongana,harungana_madagascariensis,18125,18125,Fruit,Harongana,harungana_madagascariensis,12:37:00,41.05637,71.45542
+6/10/2018 0:00,Sakafo,Ronono,10:32:00,248,F,Vanana,sloanea_rhodantha,18126,18126,Fruit,Vahirano,vitis_sp,10:38:00,40.04491,72.1381
+6/10/2018 0:00,Sakafo,Ronono,10:44:00,249,F,Dikana,allophylus_cobbe,18127,18127,Fruit,Vahirano,vitis_sp,10:51:00,36.50188,74.26395
+6/10/2018 0:00,Sakafo,Ronono,10:58:00,250,F,Rahiaka,chrysophyllum_boivinianum,18128,18128,Fruit,Vahirano,vitis_sp,11:15:00,35.05983,74.11226
+6/10/2018 0:00,Sakafo,Ronono,11:25:00,251,F,Kalafana lg,oncostemum_botryoides,18129,18129,Fruit,Vahirano,vitis_sp,11:49:00,34.58843,71.65799
+6/10/2018 0:00,Sakafo,Ronono,14:17:00,253,F,Varongy ravina montana,ocotea_auriculiformis,18131,18131,Fruit,Vahirano,vitis_sp,14:43:00,34.26778,70.05175
+6/10/2018 0:00,Sakafo,Ronono,11:55:00,253,F,Varongy ravina montana,ocotea_auriculiformis,18131,18131,Fruit,Vahirano,vitis_sp,NA,34.26778,70.05175
+7/14/2018 0:00,Sakafo,AF,12:10:00,NA,F,Rotra,syzygium_parkeri,18133,18133,Fruit,Vahitamboro,danais_argentea,12:35:00,NA,NA
+6/29/2018 0:00,Sakafo,SAM,15:23:00,255,F,Rotra,syzygium_parkeri,18133,18133,Fruit,Vahitamboro,danais_argentea,15:30:00,NA,NA
+6/17/2018 0:00,Sakafo,AM,15:17:00,NA,F,Rotra,syzygium_parkeri,18133,18133,Fruit,Vahitamboro,danais_argentea,15:25:00,NA,NA
+6/17/2018 0:00,Sakafo,AM,14:00:00,NA,F,Rotra,syzygium_parkeri,18133,18133,Fruit,Vahitamboro,danais_argentea,14:35:00,NA,NA
+6/17/2018 0:00,Sakafo,AM,11:42:00,NA,F,Rotra,syzygium_parkeri,18133,18133,Fruit,Vahitamboro,danais_argentea,11:48:00,NA,NA
+6/11/2018 0:00,Sakafo,JUVF,14:45:00,260,F,Tavolorano,cryptocarya_crassifolia,18134,18134,Fruit,Vahirano,vitis_sp,14:54:00,54.60043,52.92113
+6/18/2018 0:00,Sakafo,Akondro,9:46:00,268,F,Ambora,tambourissa_thouvenotii,18142,18142,Fruit,Vahirano,vitis_sp,10:00:00,33.52438,72.88198
+6/18/2018 0:00,Sakafo,Akondro,10:03:00,269,F,Maka,weinmannia_bojeriana,18143,18143,Fruit,Vahirano,vitis_sp,10:13:00,34.12312,72.83413
+6/18/2018 0:00,Sakafo,Akondro,11:00:00,270,F,Varongy ravinamontana,ocotea_auriculiformis,18144,18144,Fruit,Vahirano,vitis_sp,11:20:00,33.23571,69.90483
+6/18/2018 0:00,Sakafo,Akondro,14:00:00,273,F,Voara,ficus_tiliifolia,18146,18146,Fruit,Vahirano,vitis_sp,14:24:00,29.7874,70.84927
+6/18/2018 0:00,Sakafo,Akondro,14:47:00,274,F,Ranjopody,gaertnera_brevipedicellata,18147,18147,Fruit,Ranjopody,gaertnera_brevipedicellata,14:56:00,26.48519,66.76134
+7/12/2018 0:00,GOT,JUVF,11:36:00,NA,F,Ramandriona,dilobeia_thouarsii,18150,18150,Fruit,Kalamasina,medinilla_sp,11:59:00,41.88909,55.21365
+7/2/2018 0:00,Sakafo,SAM,13:10:00,294,F,Vanana,sloanea_rhodantha,18163,18163,Fruit,Nonoka,ficus_reflexa,13:18:00,52.59881,64.53736
+7/4/2018 0:00,Sakafo,JUVF,16:30:00,298,F,Ranjopody,gaertnera_brevipedicellata,18167,18167,Fruit,Ranjopody,gaertnera_brevipedicellata,16:36:00,47.36033,67.0143
+7/9/2018 0:00,Sakafo,AF,13:20:00,301,F,Lambinana,nuxia_capitata,18170,18170,Fruit,Nonoka,ficus_reflexa,13:30:00,48.94053,49.84251
+7/10/2018 0:00,Sakafo,AM,15:56:00,302,F,Vanana,sloanea_rhodantha,18174,18174,Fruit,Vahirano,vitis_sp,16:12:00,34.1761,58.94182
+7/12/2018 0:00,Sakafo,SAM,8:54:00,310,F,Tambonetra,ephippiandra_madagascariensis,18179,18179,Fruit,Roilambo,smilax_craussiana,8:57:00,63.35655,73.69024
+7/12/2018 0:00,Sakafo,SAM,15:10:00,311,F,Tavolomalady,cryptocarya_crassifolia_2,18180,18180,Fruit,Roilambo,smilax_craussiana,15:15:00,63.74929,73.85543
+7/12/2018 0:00,Sakafo,SAM,8:58:00,311,F,Tavolomalady,cryptocarya_crassifolia_2,18180,18180,Fruit,Roilambo,smilax_craussiana,9:02:00,63.74929,73.85543
+7/12/2018 0:00,Sakafo,SAM,15:19:00,314,F,Hazondrano,ilex_mitis,18183,18183,Fruit,Vahirano,vitis_sp,15:30:00,63.0016,77.98502
+7/13/2018 0:00,Sakafo,JUVF,12:40:00,315,F,Voara,ficus_tiliifolia,18184,18184,Fruit,Voara,ficus_tiliifolia,12:55:00,58.9724,67.12572
+7/15/2018 0:00,Sakafo,AM,15:20:00,324,F,Ranjopody,gaertnera_brevipedicellata,18192,18192,Fruit,Ranjopody,gaertnera_brevipedicellata,15:30:00,57.66389,56.30206
+5/24/2018 0:00,GOT,JUVF,13:34:00,NA,F,Fohaninasity,psychotria_reducta,18522,18522,Fruit,Fohaninasity,psychotria_reducta,13:36:00,23.74292,55.64497
+5/17/2018 0:00,GOT,JUVF,11:37:00,25,F,Fohaninasity,psychotria_reducta,18522,18522,Fruit,Fohaninasity,psychotria_reducta,11:38:00,23.74292,55.64497
+5/17/2018 0:00,GOT,JUVF,12:01:00,26,F,Fohaninasity,psychotria_reducta,18523,18523,Fruit,Fohaninasity,psychotria_reducta,12:05:00,23.68368,55.66593
+5/22/2018 0:00,GOT,AF,9:53:00,NA,F,Fohaninasity,psychotria_reducta,18523,18523,Fruit,Fohaninasity,psychotria_reducta,9:56:00,23.68368,55.66593
+6/24/2018 0:00,GOT,JUVF,13:47:00,NA,F,Tavolo manitra,cryptocarya_crassifolia_3,18524,18524,Fruit,Nonoka,ficus_reflexa,13:58:00,19.07686,36.40373
+5/23/2018 0:00,GOT,SAF,8:22:00,NA,F,Tavolo manitra,cryptocarya_crassifolia_3,18524,18524,Fruit,Nonoka,ficus_reflexa,8:26:00,19.07686,36.40373
+5/22/2018 0:00,GOT,AF,14:25:00,NA,F,Tavolo manitra,cryptocarya_crassifolia_3,18524,18524,Fruit,Nonoka,ficus_reflexa,14:31:00,19.07686,36.40373
+5/18/2018 0:00,GOT,AF,11:40:00,29,F,Tavolo manitra,cryptocarya_crassifolia_3,18524,18524,Fruit,Nonoka,ficus_reflexa,12:04:00,19.07686,36.40373
+5/17/2018 0:00,GOT,JUVF,12:12:00,29,F,Tavolo manitra,cryptocarya_crassifolia_3,18524,18524,Fruit,Nonoka,ficus_reflexa,12:24:00,19.07686,36.40373
+5/30/2018 0:00,GOT,AF,9:24:00,NA,F,Hazoudrano,ilex_mitis,18525,18525,Fruit,Nonoka,ficus_reflexa,9:28:00,21.09972,38.18772
+5/23/2018 0:00,GOT,SAF,8:15:00,NA,F,Hajondrano,ilex_mitis,18525,18525,Fruit,Nonoka,ficus_reflexa,8:17:00,21.09972,38.18772
+5/18/2018 0:00,GOT,AF,11:38:00,30,F,Hazondrano,ilex_mitis,18525,18525,Fruit,Nonoka,ficus_reflexa,11:39:00,21.09972,38.18772
+5/17/2018 0:00,GOT,JUVF,12:27:00,30,F,Hazondrano,ilex_mitis,18525,18525,Fruit,Nonoka,ficus_reflexa,12:29:00,21.09972,38.18772
+5/17/2018 0:00,GOT,JUVF,12:39:00,31,F,Dikana,allophylus_cobbe,18526,18526,Fruit,Dikana,allophylus_cobbe,12:40:00,26.93153,36.74258
+7/1/2018 0:00,GOT,SAF,13:29:00,NA,F,Vanana,sloanea_rhodantha,18527,18527,Fruit,Vahirano,vitis_sp,14:09:00,27.09623,37.10091
+6/29/2018 0:00,GOT,AM,9:02:00,NA,F,Vanana,sloanea_rhodantha,18527,18527,Fruit,Vahirano,vitis_sp,9:24:00,27.09623,37.10091
+6/22/2018 0:00,GOT,AF,12:52:00,NA,F,Vanana,sloanea_rhodantha,18527,18527,Fruit,Vahirano,vitis_sp,13:19:00,27.09623,37.10091
+5/17/2018 0:00,GOT,JUVF,15:10:00,33,F,Kalafana,oncostemum_botryoides,18528,18528,Fruit,Kalafana,oncostemum_botryoides,15:13:00,28.99886,36.49654
+5/17/2018 0:00,GOT,JUVF,15:14:00,34,F,Kalafana,oncostemum_botryoides,18529,18529,Fruit,Kalafana,oncostemum_botryoides,15:18:00,28.55228,35.99261
+5/17/2018 0:00,GOT,JUVF,15:31:00,36,F,Apana,ficus_pachyclada,18531,18531,Fruit,Apana,ficus_pachyclada,NA,36.76085,34.24727
+6/30/2018 0:00,GOT,AF,12:23:00,NA,F,Nato,sideroxylon_betsimisarakum,18532,18532,Fruit,Vahirano,vitis_sp,12:36:00,35.45633,41.77466
+6/4/2018 0:00,GOT,SAF,13:37:00,NA,F,Nato,sideroxylon_betsimisarakum,18532,18532,Fruit,Vahirano,vitis_sp,13:56:00,35.45633,41.77466
+5/24/2018 0:00,GOT,JUVF,14:23:00,NA,F,Nato,sideroxylon_betsimisarakum,18532,18532,Fruit,Vahirano,vitis_sp,14:28:00,35.45633,41.77466
+5/18/2018 0:00,GOT,AF,9:33:00,37,F,Nato,sideroxylon_betsimisarakum,18532,18532,Fruit,Vahirano,vitis_sp,9:35:00,35.45633,41.77466
+6/10/2018 0:00,GOT,SAF,9:36:00,NA,F,Vanana,sloanea_rhodantha,18533,18533,Fruit,Nonoka,ficus_reflexa,9:50:00,36.86097,45.22719
+5/19/2018 0:00,GOT,SAF,14:48:00,38,F,Vanana,sloanea_rhodantha,18533,18533,Fruit,Nonoka,ficus_reflexa,14:58:00,36.86097,45.22719
+5/18/2018 0:00,GOT,AF,9:38:00,38,F,Vanana,sloanea_rhodantha,18533,18533,Fruit,Nonoka,ficus_reflexa,9:58:00,36.86097,45.22719
+5/19/2018 0:00,GOT,SAF,14:59:00,39,F,Maka,weinmannia_bojeriana,18534,18534,Fruit,Vahirno,vitis_sp,15:04:00,33.72733,44.94701
+5/18/2018 0:00,GOT,AF,11:17:00,40,F,Kalafana,oncostemum_botryoides,18535,18535,Fruit,Kalafana (Lg),oncostemum_botryoides,11:20:00,32.5477,45.78185
+6/10/2018 0:00,GOT,SAF,10:02:00,NA,F,Kalafana,oncostemum_botryoides,18535,18535,Fruit,Kalafana,oncostemum_botryoides,10:04:00,32.5477,45.78185
+7/1/2018 0:00,GOT,SAF,11:23:00,NA,F,Vanana,sloanea_rhodantha,18536,18536,Fruit,Nonoka,ficus_reflexa,11:34:00,27.27042,42.13919
+5/18/2018 0:00,GOT,AF,11:28:00,41,F,Vanana,sloanea_rhodantha,18536,18536,Fruit,Nonoka,ficus_reflexa,11:30:00,27.27042,42.13919
+5/18/2018 0:00,GOT,AF,13:20:00,43,F,Fohaninasity,psychotria_reducta,18538,18538,Fruit,Fohaninasity,psychotria_reducta,13:26:00,15.51175,40.72944
+5/18/2018 0:00,GOT,AF,13:29:00,45,F,Fohaninasity,psychotria_reducta,18540,18540,Fruit,Fohaninasity,psychotria_reducta,13:37:00,14.88712,43.47774
+5/18/2018 0:00,GOT,AF,13:53:00,48,F,Harongana,harungana_madagascariensis,18543,18543,Fruit,Harongana,harungana_madagascariensis,15:19:00,8.78762,49.02614
+5/22/2018 0:00,GOT,AF,10:08:00,NA,F,Harongana,harungana_madagascariensis,18543,18543,Fruit,Harongana,harungana_madagascariensis,11:29:00,8.78762,49.02614
+5/19/2018 0:00,GOT,SAF,8:17:00,51,F,Kalafana,oncostemum_botryoides,18546,18546,Fruit,Kalafana,oncostemum_botryoides,8:25:00,28.58934,38.10201
+5/19/2018 0:00,GOT,SAF,8:34:00,52,F,Famakilela,ficus_politoria,18547,18547,Fruit,Famakilela,ficus_politoria,8:34:00,28.15477,37.74713
+5/19/2018 0:00,GOT,SAF,8:36:00,53,F,Famakilela,ficus_politoria,18548,18548,Fruit,Famakilela,ficus_politoria,8:37:00,28.06712,37.18831
+5/19/2018 0:00,GOT,SAF,8:38:00,54,F,Famakilela,ficus_politoria,18549,18549,Fruit,Famakilela,ficus_politoria,8:39:00,27.40575,39.41734
+5/19/2018 0:00,GOT,SAF,9:23:00,57,F,Harongana,harungana_madagascariensis,18552,18552,Fruit,Harongana,harungana_madagascariensis,10:37:00,35.27495,37.74665
+6/5/2018 0:00,GOT,JUVF,9:58:00,NA,F,Vanana,sloanea_rhodantha,18553,18553,Fruit,Vahirano,vitis_sp,9:59:00,37.86608,34.67318
+6/20/2018 0:00,GOT,JUVF,14:53:00,NA,F,Vanana,sloanea_rhodantha,18553,18553,Fruit,Vahirano,vitis_sp,14:56:00,37.86608,34.67318
+5/19/2018 0:00,GOT,SAF,13:05:00,58,F,Vanana,sloanea_rhodantha,18553,18553,Fruit,Vahirano,vitis_sp,13:08:00,37.86608,34.67318
+5/19/2018 0:00,GOT,SAF,12:44:00,58,F,Vanana,sloanea_rhodantha,18553,18553,Fruit,Vahirano,vitis_sp,12:45:00,37.86608,34.67318
+5/19/2018 0:00,GOT,SAF,12:17:00,59,F,Maka,weinmannia_bojeriana,18554,18554,Fruit,Vahirano,vitis_sp,12:22:00,39.24158,34.33538
+5/24/2018 0:00,GOT,JUVF,14:39:00,NA,F,Lambinana,nuxia_capitata,18557,18557,Fruit,Vahirano,vitis_sp,14:56:00,35.77155,39.80997
+5/19/2018 0:00,GOT,SAF,13:15:00,62,F,Lambinana,nuxia_capitata,18557,18557,Fruit,Vahirano,vitis_sp,13:25:00,35.77155,39.80997
+5/20/2018 0:00,GOT,JUVF,12:23:00,66,F,Harongana,harungana_madagascariensis,18561,18561,Fruit,Harongana,harungana_madagascariensis,13:45:00,20.34545,33.14685
+5/24/2018 0:00,GOT,JUVF,8:14:00,NA,F,Harongana,harungana_madagascariensis,18561,18561,Fruit,Harongana,harungana_madagascariensis,8:40:00,20.34545,33.14685
+5/23/2018 0:00,GOT,SAF,8:40:00,NA,F,Harongana,harungana_madagascariensis,18561,18561,Fruit,Harongana,harungana_madagascariensis,10:07:00,20.34545,33.14685
+5/20/2018 0:00,GOT,JUVF,15:26:00,66,F,Harongana,harungana_madagascariensis,18561,18561,Fruit,Harongana,harungana_madagascariensis,15:40:00,20.34545,33.14685
+5/24/2018 0:00,GOT,JUVF,10:39:00,NA,F,Harongana,harungana_madagascariensis,18566,18566,Fruit,Harongana,harungana_madagascariensis,11:54:00,48.99234,36.64087
+5/21/2018 0:00,GOT,AM,14:44:00,72,F,Harongana,harungana_madagascariensis,18566,18566,Fruit,Harongana,harungana_madagascariensis,15:23:00,48.99234,36.64087
+5/21/2018 0:00,GOT,AM,12:33:00,72,F,Harongana,harungana_madagascariensis,18566,18566,Fruit,Harongana,harungana_madagascariensis,13:18:00,48.99234,36.64087
+5/22/2018 0:00,GOT,AF,14:06:00,80,F,Fohaninasity,psychotria_reducta,18573,18573,Fruit,Fohaninasity,psychotria_reducta,14:12:00,12.64884,42.8759
+5/30/2018 0:00,GOT,AF,9:20:00,NA,F,Tavolomanitra,cryptocarya_crassifolia_3,18579,18579,Fruit,Nonoka,ficus_reflexa,9:23:00,20.72363,36.96193
+5/23/2018 0:00,GOT,SAF,8:17:00,86,F,Tavolomanitra,cryptocarya_crassifolia_3,18579,18579,Fruit,Nonoka,ficus_reflexa,8:21:00,20.72363,36.96193
+7/2/2018 0:00,GOT,JUVF,11:46:00,NA,F,Tavolo manitra,cryptocarya_crassifolia_3,18580,18580,Fruit,Nonoka,ficus_reflexa,11:53:00,17.55319,34.59245
+6/24/2018 0:00,GOT,JUVF,13:35:00,NA,F,Tavolo manitra,cryptocarya_crassifolia_3,18580,18580,Fruit,Nonoka,ficus_reflexa,13:44:00,17.55319,34.59245
+5/30/2018 0:00,GOT,AF,8:06:00,18580,F,Tavolo manitra,cryptocarya_crassifolia_3,18580,18580,Fruit,Nonoka,ficus_reflexa,8:24:00,17.55319,34.59245
+5/23/2018 0:00,GOT,SAF,8:30:00,87,F,Tavolomanitra,cryptocarya_crassifolia_3,18580,18580,Fruit,Nonoka,ficus_reflexa,8:35:00,17.55319,34.59245
+5/23/2018 0:00,GOT,SAF,11:17:00,91,F,Malanimanta,apodytes_dimidiata,18584,18584,Fruit,Nonoka,ficus_reflexa,11:19:00,9.40522,32.41649
+6/19/2018 0:00,GOT,SAF,9:33:00,NA,F,Fohaninasity,psychotria_reducta,18587,18587,Fruit,Fohaninasity,psychotria_reducta,9:36:00,12.19196,44.71168
+5/24/2018 0:00,GOT,JUVF,9:30:00,94,F,Fohaninasity,psychotria_reducta,18587,18587,Fruit,Fohaninasity,psychotria_reducta,9:33:00,12.19196,44.71168
+5/24/2018 0:00,GOT,JUVF,9:43:00,97,F,Fohaninasity,psychotria_reducta,18590,18590,Fruit,Fohaninasity,psychotria_reducta,9:46:00,13.43472,48.02617
+5/24/2018 0:00,GOT,JUVF,13:41:00,101,F,Fohaninasity,psychotria_reducta,18594,18594,Fruit,Fohaninasity,psychotria_reducta,13:42:00,23.61614,54.31718
+5/24/2018 0:00,GOT,JUVF,13:57:00,102,F,Fohaninasity,psychotria_reducta,18595,18595,Fruit,Fohaninasity,psychotria_reducta,13:59:00,25.8093,49.87819
+5/25/2018 0:00,GOT,AM,8:59:00,106,F,Varongy ravina montana,ocotea_auriculiformis,18599,18599,Fruit,Nonoka,ficus_reflexa,9:04:00,25.04858,20.06608
+5/25/2018 0:00,GOT,AM,9:05:00,107,F,Kalafana,oncostemum_botryoides,18600,18600,Fruit,Kalafana Lg,oncostemum_botryoides,9:10:00,30.32418,16.55758
+5/25/2018 0:00,GOT,AM,9:29:00,108,F,Tavolorano,cryptocarya_crassifolia,18601,18601,Fruit,Vahirano,vitis_sp,9:58:00,31.15586,15.12694
+6/1/2018 0:00,GOT,JUVF,11:57:00,NA,F,Varongy ravina montana,ocotea_auriculiformis,18602,18602,Fruit,Nonoka,ficus_reflexa,12:14:00,30.0345,21.31167
+5/25/2018 0:00,GOT,AM,12:14:00,109,F,Varongy ravinam,ocotea_auriculiformis,18602,18602,Fruit,Nonoka,ficus_reflexa,12:44:00,30.0345,21.31167
+6/1/2018 0:00,GOT,JUVF,14:20:00,NA,F,Rotramboa,syzygium_bernieri_2,18604,18604,Fruit,Nonoka,ficus_reflexa,14:21:00,33.3382,21.57958
+5/25/2018 0:00,GOT,AM,13:41:00,111,F,Rotra,syzygium_sp,18604,18604,Fruit,Nonoka,ficus_reflexa,13:46:00,33.3382,21.57958
+5/25/2018 0:00,GOT,AM,14:59:00,112,F,Harongana,harungana_madagascariensis,18605,18605,Fruit,Harongana,harungana_madagascariensis,15:20:00,NA,NA
+6/1/2018 0:00,GOT,JUVF,14:44:00,NA,F,Harongana,harungana_madagascariensis,18605,18605,Fruit,Harongana,harungana_madagascariensis,14:52:00,NA,NA
+5/30/2018 0:00,GOT,AF,8:38:00,118,F,Tavolo,cryptocarya_crassifolia_1,18610,18610,Fruit,Nonoka,ficus_reflexa,8:41:00,17.95905,29.54685
+5/30/2018 0:00,GOT,AF,10:33:00,120,F,Famakilela,ficus_politoria,18612,18612,Fruit,Famakilela,ficus_politoria,10:35:00,26.31103,38.24093
+5/30/2018 0:00,GOT,AF,14:42:00,122,F,Harongana,harungana_madagascariensis,18614,18614,Fruit,Harongana,harungana_madagascariensis,14:55:00,30.02001,38.15333
+5/30/2018 0:00,GOT,AF,14:59:00,123,F,Harongana,harungana_madagascariensis,18615,18615,Fruit,Harongana,harungana_madagascariensis,15:30:00,29.57999,41.29991
+7/1/2018 0:00,GOT,SAF,13:04:00,NA,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,13:27:00,32.66268,43.04016
+6/14/2018 0:00,GOT,SAF,12:07:00,NA,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,12:17:00,32.66268,43.04016
+6/11/2018 0:00,GOT,JUVF,9:35:00,NA,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,9:48:00,32.66268,43.04016
+6/7/2018 0:00,GOT,AF,8:33:00,NA,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,8:54:00,32.66268,43.04016
+6/3/2018 0:00,GOT,AF,10:16:00,NA,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,10:35:00,32.66268,43.04016
+5/31/2018 0:00,GOT,SAF,13:59:00,125,F,Tavolorano,cryptocarya_crassifolia,18616,18616,Fruit,Tavolorano,cryptocarya_crassifolia,14:15:00,32.66268,43.04016
+5/31/2018 0:00,GOT,SAF,14:18:00,126,F,Harongana,harungana_madagascariensis,18617,18617,Fruit,Harongana,harungana_madagascariensis,14:44:00,31.2908,39.78762
+5/31/2018 0:00,GOT,SAF,15:10:00,127,F,Kalafambakaka,oncostemum_nervosum,18618,18618,Fruit,Kalafambakaka,oncostemum_nervosum,15:12:00,36.14993,34.19468
+6/1/2018 0:00,GOT,JUVF,8:23:00,128,F,Varongy ravina montana,ocotea_auriculiformis,18619,18619,Fruit,Vahmabrangy,raphidocystis_sp,8:24:00,21.9833,25.92523
+6/1/2018 0:00,GOT,JUVF,14:26:00,130,F,Vanana,sloanea_rhodantha,18621,18621,Fruit,Vahimbarongy,raphidocystis_sp,14:34:00,35.64631,23.71035
+6/1/2018 0:00,GOT,JUVF,14:53:00,131,F,Harongana,harungana_madagascariensis,18622,18622,Fruit,Harongana,harungana_madagascariensis,15:29:00,41.59286,27.31516
+7/4/2018 0:00,GOT,AF,10:18:00,NA,F,Mananitra,brachylaena_ramiflora,18623,18623,Fruit,Nonoka,ficus_reflexa,10:21:00,19.77982,26.47313
+7/2/2018 0:00,GOT,JUVF,8:43:00,NA,F,Mananitra,brachylaena_ramiflora,18623,18623,Fruit,Nonoka,ficus_reflexa,8:52:00,19.77982,26.47313
+6/15/2018 0:00,GOT,JUVF,12:53:00,NA,F,Monanitra,brachylaena_ramiflora,18623,18623,Fruit,Nonoka,ficus_reflexa,12:58:00,19.77982,26.47313
+6/2/2018 0:00,GOT,AM,14:08:00,132,F,Mananitra,brachylaena_ramiflora,18623,18623,Fruit,Nonoka,ficus_reflexa,14:17:00,19.77982,26.47313
+6/2/2018 0:00,GOT,AM,14:18:00,133,F,Varongy ravina montana,ocotea_auriculiformis,18624,18624,Fruit,Vahinonoka,ficus_reflexa,14:25:00,19.18471,23.72121
+6/2/2018 0:00,GOT,AM,14:35:00,134,F,Rotraloboa,Rotraloboa,18625,18625,Fruit,Vahirano,vitis_sp,14:39:00,23.36108,21.04743
+6/6/2018 0:00,GOT,AM,9:14:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,9:33:00,32.59282,42.30079
+6/10/2018 0:00,GOT,SAF,13:35:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,14:07:00,32.59282,42.30079
+6/4/2018 0:00,GOT,SAF,10:48:00,136,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,11:22:00,32.59282,42.30079
+6/6/2018 0:00,GOT,AM,8:07:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,8:23:00,32.59282,42.30079
+6/5/2018 0:00,GOT,JUVF,8:32:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,8:41:00,32.59282,42.30079
+6/3/2018 0:00,GOT,AF,15:26:00,136,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,15:30:00,32.59282,42.30079
+6/11/2018 0:00,GOT,JUVF,9:59:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,10:46:00,32.59282,42.30079
+6/5/2018 0:00,Sakafo,AF,11:26:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,12:27:00,32.59282,42.30079
+6/7/2018 0:00,GOT,AF,11:00:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,11:08:00,32.59282,42.30079
+6/12/2018 0:00,GOT,AM,10:13:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,10:48:00,32.59282,42.30079
+6/10/2018 0:00,GOT,SAF,7:32:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,8:04:00,32.59282,42.30079
+6/6/2018 0:00,GOT,AM,7:02:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,7:18:00,32.59282,42.30079
+6/4/2018 0:00,GOT,SAF,15:07:00,136,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,15:35:00,32.59282,42.30079
+6/13/2018 0:00,GOT,AF,8:45:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,9:05:00,32.59282,42.30079
+6/3/2018 0:00,GOT,AF,10:40:00,136,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,11:20:00,32.59282,42.30079
+6/5/2018 0:00,GOT,JUVF,6:58:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,7:29:00,32.59282,42.30079
+6/10/2018 0:00,GOT,SAF,12:52:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,13:11:00,32.59282,42.30079
+6/3/2018 0:00,GOT,AF,13:18:00,136,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,13:44:00,32.59282,42.30079
+6/13/2018 0:00,GOT,AF,7:00:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,8:03:00,32.59282,42.30079
+6/14/2018 0:00,GOT,SAF,10:38:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,11:51:00,32.59282,42.30079
+6/11/2018 0:00,GOT,JUVF,11:55:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,12:24:00,32.59282,42.30079
+6/7/2018 0:00,GOT,AF,9:00:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,9:26:00,32.59282,42.30079
+6/12/2018 0:00,GOT,AM,7:53:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,9:05:00,32.59282,42.30079
+6/10/2018 0:00,GOT,SAF,7:05:00,NA,F,Harongana,harungana_madagascariensis,18627,18627,Fruit,Harongana,harungana_madagascariensis,7:09:00,32.59282,42.30079
+6/4/2018 0:00,GOT,SAF,9:58:00,140,F,Kalafana,oncostemum_botryoides,18631,18631,Fruit,Kalafana,oncostemum_botryoides,10:03:00,39.14702,48.84767
+6/4/2018 0:00,GOT,SAF,14:48:00,142,F,Famakilela,ficus_politoria,18633,18633,Fruit,Famakilela,ficus_politoria,14:54:00,35.77075,42.11017
+6/5/2018 0:00,GOT,JUVF,9:14:00,146,F,Harongana,harungana_madagascariensis,18636,18636,Fruit,Harongana,harungana_madagascariensis,9:26:00,39.67137,38.1901
+6/20/2018 0:00,GOT,JUVF,15:23:00,NA,F,Tavolo,cryptocarya_crassifolia_1,18637,18637,Fruit,Tavolo,cryptocarya_crassifolia_1,15:25:00,38.25125,35.81836
+6/5/2018 0:00,GOT,JUVF,9:29:00,147,F,Tavolo,cryptocarya_crassifolia_1,18637,18637,Fruit,Tavolo,cryptocarya_crassifolia_1,9:31:00,38.25125,35.81836
+6/20/2018 0:00,GOT,JUVF,11:01:00,NA,F,Dikana,allophylus_cobbe,18638,18638,Fruit,Vahirano,vitis_sp,11:21:00,37.46364,33.67825
+6/6/2018 0:00,GOT,AM,15:14:00,NA,F,Dikana,allophylus_cobbe,18638,18638,Fruit,Vahirano,vitis_sp,15:14:00,37.46364,33.67825
+6/5/2018 0:00,GOT,JUVF,9:43:00,148,F,Dikana,allophylus_cobbe,18638,18638,Fruit,Vahirano,vitis_sp,9:53:00,37.46364,33.67825
+6/10/2018 0:00,GOT,SAF,11:32:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18645,18645,Fruit,Ranjopody,gaertnera_brevipedicellata,11:43:00,NA,NA
+6/10/2018 0:00,GOT,SAF,11:46:00,NA,F,Kalafana,oncostemum_botryoides,18646,18646,Fruit,Kalafana,oncostemum_botryoides,11:53:00,NA,NA
+6/12/2018 0:00,GOT,AM,11:13:00,165,F,Lanary,tina_striata,18654,18654,Fruit,Vahirano,vitis_sp,11:14:00,35.4976,45.72405
+7/11/2018 0:00,GOT,SAF,11:57:00,NA,F,Varongy,ocotea_nervosa,18656,18656,Fruit,Vahirano,vitis_sp,12:05:00,36.92688,44.15586
+6/12/2018 0:00,GOT,AM,13:17:00,167,F,Varongy,ocotea_nervosa,18656,18656,Fruit,Vahirano,vitis_sp,13:18:00,36.92688,44.15586
+6/14/2018 0:00,GOT,SAF,10:23:00,170,F,Fatsikahitra,antirhea_borbonica,18659,18659,Fruit,Vahirano,vitis_sp,10:58:00,31.51181,46.12542
+6/15/2018 0:00,GOT,JUVF,12:48:00,181,F,Tavolo malady,cryptocarya_crassifolia_2,18661,18661,Fruit,Tongolahy,bakerella_sp,12:49:00,21.78277,25.11803
+7/2/2018 0:00,GOT,JUVF,8:32:00,NA,F,Tavolo malady,cryptocarya_crassifolia_2,18661,18661a,Fruit,Vahirano,vitis_sp,8:39:00,21.78277,25.11803
+6/15/2018 0:00,GOT,JUVF,13:09:00,178,F,Raniantoholo,ambavia_capuronii,18662,18662,Fruit,Nonoka,ficus_reflexa,13:11:00,12.24634,24.69926
+6/24/2018 0:00,GOT,JUVF,13:06:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18663,18663,Fruit,Ranjopody,gaertnera_brevipedicellata,13:19:00,10.69034,27.36966
+6/15/2018 0:00,GOT,JUVF,13:22:00,177,F,Ranjopody,gaertnera_brevipedicellata,18663,18663,Fruit,Ranjopody,gaertnera_brevipedicellata,13:39:00,10.69034,27.36966
+6/15/2018 0:00,GOT,JUVF,13:44:00,176,F,Andevokavoha,ukn_1,18664,18664,Fruit,Andovokanaha,ukn_1,14:09:00,11.51815,28.71959
+6/17/2018 0:00,GOT,AM,8:10:00,183,F,Varongy ravinamontana,ocotea_auriculiformis,18666,18666,Fruit,Nonoka,ficus_reflexa,8:26:00,26.14685,16.80128
+6/17/2018 0:00,GOT,AM,15:12:00,189,F,Sarivavala,hancea_capuronii,18672,18672,Fruit,Takarina,ukn_2,15:32:00,39.70281,5.42723
+6/24/2018 0:00,GOT,JUVF,8:39:00,NA,F,Lanary,tina_striata,18674,18674,Fruit,Vahirano,vitis_sp,8:56:00,25.00212,28.17674
+6/18/2018 0:00,GOT,AF,10:04:00,191,F,Lanary,tina_striata,18674,18674,Fruit,Vahirano,vitis_sp,10:17:00,25.00212,28.17674
+6/18/2018 0:00,GOT,AF,11:15:00,192,F,Varongy ravinamontana,ocotea_auriculiformis,18675,18675,Fruit,Vahirano,vitis_sp,11:28:00,29.24623,28.50313
+6/29/2018 0:00,GOT,AM,10:21:00,NA,F,Dikana,allophylus_cobbe,18677,18677,Fruit,Vahirano,vitis_sp,11:09:00,32.40475,33.02284
+6/20/2018 0:00,GOT,JUVF,10:12:00,194,F,Dikana,allophylus_cobbe,18677,18677,Fruit,Vahirano,vitis_sp,10:49:00,32.40475,33.02284
+6/18/2018 0:00,GOT,AF,11:55:00,194,F,Dikana,allophylus_cobbe,18677,18677,Fruit,Vahirano,vitis_sp,12:18:00,32.40475,33.02284
+6/18/2018 0:00,GOT,AF,12:25:00,195,F,Varongy ravinamontana,ocotea_auriculiformis,18678,18678,Fruit,Vahirano,vitis_sp,12:40:00,33.74049,32.66544
+7/2/2018 0:00,GOT,JUVF,15:03:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18680,18680,Fruit,Ranjopody,gaertnera_brevipedicellata,15:06:00,12.93755,42.7725
+6/23/2018 0:00,GOT,SAF,13:38:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18680,18680,Fruit,Ranjopody,gaertnera_brevipedicellata,14:06:00,12.93755,42.7725
+6/19/2018 0:00,GOT,SAF,9:00:00,197,F,Ranjopody,gaertnera_brevipedicellata,18680,18680,Fruit,Ranjopody,gaertnera_brevipedicellata,9:31:00,12.93755,42.7725
+6/19/2018 0:00,GOT,SAF,9:51:00,199,F,Ranjopody,gaertnera_brevipedicellata,18682,18682,Fruit,Ranjopody,gaertnera_brevipedicellata,9:55:00,8.94876,46.8136
+6/19/2018 0:00,GOT,SAF,11:30:00,200,F,Lanary,tina_striata,18683,18683,Fruit,Kalanasina,medinilla_sp,11:58:00,7.92581,46.59695
+6/19/2018 0:00,GOT,SAF,12:29:00,202,F,Harongana,harungana_madagascariensis,18685,18685,Fruit,Harongana,harungana_madagascariensis,12:58:00,8.28628,53.68233
+6/19/2018 0:00,GOT,SAF,13:09:00,203,F,Fanairana,psorospermum_fanerana,18686,18686,Fruit,Fanairana,psorospermum_fanerana,13:17:00,11.05729,52.14729
+6/20/2018 0:00,GOT,JUVF,9:45:00,207,F,Vanana,sloanea_rhodantha,18690,18690,Fruit,Vahirano,vitis_sp,9:53:00,30.25202,30.46014
+7/5/2018 0:00,GOT,SAF,10:44:00,NA,F,Rahiaka,chrysophyllum_boivinianum,18691,18691,Fruit,Vahirano,vitis_sp,10:55:00,31.5245,31.44396
+6/20/2018 0:00,GOT,JUVF,9:56:00,208,F,Rahiaka,chrysophyllum_boivinianum,18691,18691,Fruit,Vahirano,vitis_sp,10:03:00,31.5245,31.44396
+6/20/2018 0:00,GOT,JUVF,10:04:00,209,F,Vanana,sloanea_rhodantha,18692,18692,Fruit,Vahirano,vitis_sp,10:07:00,32.6149,31.49963
+7/9/2018 0:00,GOT,AM,9:18:00,NA,F,Maka,weinmannia_bojeriana,18693,18693,Fruit,Nonoka,ficus_reflexa,9:21:00,17.24196,28.2064
+6/24/2018 0:00,GOT,JUVF,10:18:00,NA,F,Maka,weinmannia_bojeriana,18693,18693,Fruit,Nonoka,ficus_reflexa,10:21:00,17.24196,28.2064
+6/23/2018 0:00,GOT,SAF,8:27:00,214,F,Maka,weinmannia_bojeriana,18693,18693,Fruit,Nonoka,ficus_reflexa,8:33:00,17.24196,28.2064
+6/23/2018 0:00,GOT,SAF,8:40:00,216,F,Fantsikahitra,antirhea_borbonica,18695,18695,Fruit,Kalamasina,medinilla_sp,9:02:00,15.77252,27.48502
+7/2/2018 0:00,GOT,JUVF,11:56:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18696,18696,Fruit,Ranjopody,gaertnera_brevipedicellata,11:58:00,14.29206,36.07424
+6/23/2018 0:00,GOT,SAF,9:16:00,217,F,Ranjopody,gaertnera_brevipedicellata,18696,18696,Fruit,Ranjopody,gaertnera_brevipedicellata,9:22:00,14.29206,36.07424
+7/2/2018 0:00,GOT,JUVF,11:59:00,NA,F,Ranjopody,gaertnera_brevipedicellata,18697,18697,Fruit,Ranjopody,gaertnera_brevipedicellata,12:04:00,13.48469,37.8349
+6/23/2018 0:00,GOT,SAF,9:23:00,218,F,Ranjopody,gaertnera_brevipedicellata,18697,18697,Fruit,Ranjopody,gaertnera_brevipedicellata,9:40:00,13.48469,37.8349
+6/24/2018 0:00,GOT,JUVF,14:12:00,219,F,Ranjopody,gaertnera_brevipedicellata,18698,18698,Fruit,Ranjopody,gaertnera_brevipedicellata,14:15:00,12.29714,38.84006
+6/23/2018 0:00,GOT,SAF,9:43:00,219,F,Ranjopody,gaertnera_brevipedicellata,18698,18698,Fruit,Ranjopody,gaertnera_brevipedicellata,9:53:00,12.29714,38.84006
+6/24/2018 0:00,GOT,JUVF,10:22:00,227,F,Ranjopody,gaertnera_brevipedicellata,18705,18705,Fruit,Ranjopody,gaertnera_brevipedicellata,10:27:00,18.13084,27.31487
+6/24/2018 0:00,GOT,JUVF,13:59:00,229,F,Tavolo manitra,cryptocarya_crassifolia_3,18707,18707,Fruit,Kalamarina,medinilla_sp,14:03:00,18.88616,37.15562
+7/3/2018 0:00,GOT,AM,13:15:00,NA,F,Kalafana Lg,oncostemum_botryoides,18712,18712,Fruit,Vahirano,vitis_sp,13:24:00,33.27119,33.52151
+6/29/2018 0:00,GOT,AM,11:10:00,234,F,Kalafana lg,oncostemum_botryoides,18712,18712,Fruit,Vahirano,vitis_sp,11:10:00,33.27119,33.52151
+6/30/2018 0:00,GOT,AF,12:06:00,235,F,Rahiaka,chrysophyllum_boivinianum,18713,18713,Fruit,Vahirano,vitis_sp,12:21:00,34.04673,44.88252
+7/1/2018 0:00,GOT,SAF,10:48:00,244,F,Vanana,sloanea_rhodantha,18715,18715,Fruit,Nonoka,ficus_reflexa,10:50:00,23.16456,45.61174
+7/3/2018 0:00,GOT,AM,13:24:00,252,F,Sama,elaeocarpus_subserratus,18723,18723,Fruit,Vahirano,vitis_sp,13:33:00,32.21409,32.20551
+7/3/2018 0:00,GOT,AM,13:36:00,253,F,Vanana,sloanea_rhodantha,18724,18724,Fruit,Vahirano,vitis_sp,13:47:00,32.20462,32.25503
+7/5/2018 0:00,GOT,SAF,9:03:00,NA,F,Vanana,sloanea_rhodantha,18725,18725,Fruit,Tongolahy,bakerella_sp,9:14:00,50.46166,21.74137
+7/4/2018 0:00,GOT,AF,13:21:00,256,F,Ranjopody,gaertnera_brevipedicellata,18727,18727,Fruit,Ranjopody,gaertnera_brevipedicellata,13:29:00,13.27472,29.99735
+7/5/2018 0:00,GOT,SAF,9:50:00,259,F,Dikana,allophylus_cobbe,18730,18730,Fruit,Nonoka,ficus_reflexa,9:57:00,26.27284,18.85004
+7/5/2018 0:00,GOT,SAF,10:21:00,260,F,Rotra,syzygium_parkeri,18731,18731,Fruit,vahinonoka,ficus_reflexa,10:25:00,27.10343,22.78005
+7/8/2018 0:00,GOT,JUVF,14:39:00,268,F,Rotra Lg,syzygium_sp,18738,18738,Fruit,Nonoka,ficus_reflexa,14:57:00,6.83864,50.73088
+7/10/2018 0:00,GOT,AF,11:38:00,271,F,Ranjopody,gaertnera_brevipedicellata,18741,18741,Fruit,Ranjopody,gaertnera_brevipedicellata,11:56:00,26.05464,50.25569
+7/15/2018 0:00,GOT,AF,8:17:00,272,F,Tavolopina,cryptocarya_thouvenotii,18742,18742,Fruit,Kalamasina,medinilla_sp,8:23:00,24.89354,51.75005
+7/15/2018 0:00,GOT,AF,10:38:00,274,F,Maka,weinmannia_bojeriana,18744,18744,Fruit,Kalamasina,medinilla_sp,10:42:00,25.15099,52.34691
+7/11/2018 0:00,GOT,SAF,11:42:00,280,F,Rotra,syzygium_parkeri,18750,18750,Fruit,Nonoka,ficus_reflexa,11:55:00,34.63857,45.80544
+7/14/2018 0:00,GOT,AM,10:54:00,289,F,Tavolo,cryptocarya_crassifolia_1,18758,18758,Fruit,Tavolo,cryptocarya_crassifolia_1,10:55:00,10.32591,48.90587
